@@ -1,0 +1,438 @@
+html{
+font-size: 10px;
+
+}
+
+body::-webkit-scrollbar{
+width: .9rem;
+
+}
+
+body::-webkit-scrollbar-track{
+background: black;
+
+}
+body::-webkit-scrollbar-thumb{
+background:#faefee;
+}
+
+body{
+box-sizing: border-box;
+overflow-x: hidden;
+font-weight: 200;
+}
+
+
+#header-section{
+width: 100vw;
+height: 60rem;
+background-color:#030303;
+
+
+}
+#header-section a{
+	
+	color: #FF0CFF;
+    background: -webkit-linear-gradient(left,#ff005e,#ff01c9,#a700ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+	font-size: 2.3rem;
+	font-weight: 300;
+	font-family: 'Julius Sans One', sans-serif;
+	font-family: 'Major Mono Display', monospace;
+
+}
+
+
+.nav-link:hover{
+border-bottom: #ffffff 1px solid;
+
+
+
+
+}
+
+#header-section span{
+color:rgb(255, 255, 255);
+}
+/* #header-section a::before{
+content: '';
+
+width:0%;
+height: auto;
+}
+
+#header-section a::after{
+content: '';
+border-bottom: tomato 1px solid;
+width:100%;
+} */
+
+
+#hpart-1{
+background-color: black;
+height: 50rem;
+background-image: url(img/walking\ man.webp);
+background-position:right;
+background-repeat: no-repeat;
+background-size:80%;
+
+}
+#haprt{
+height: 50rem;
+}
+
+#hpart h1{
+font-family: 'Geo', sans-serif;
+}
+
+#hpart-2{ padding-top: 10rem;
+color: white;
+
+}
+
+#hpart-2 h1{
+
+
+font-size:4.7rem;
+font-family: 'Julius Sans One', sans-serif;
+font-family: 'Major Mono Display', monospace;
+font-weight: 800;
+}
+
+#hpart-2 h4{
+font-family: 'Libre Barcode 39 Text', cursive;
+font-size: 5rem;
+color: #ffffff;
+background: -webkit-linear-gradient(left,#fffbfb,#6b0054,#a700ff);;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+
+#header-section li{padding:1rem ;
+
+}
+
+#hero-section{
+width: 100vw;
+height: 75rem;
+background-color: black;
+padding-top: 15rem
+
+
+}
+
+#hero-section H1,H3,h4{
+padding-top: 3rem;
+color: white; }
+
+
+#herop-1 { 
+margin-top: 10rem;
+}
+
+#herop-1 h1{ color: #CBDDE6;
+	font-family: 'Julius Sans One', sans-serif;
+font-family: 'Lexend Mega', sans-serif;
+
+}
+
+
+#herop-1 h3{ font-family: 'Julius Sans One', sans-serif;
+font-family: 'Major Mono Display', monospace;
+font-weight: 1000;
+
+  color: #04daf7;
+    background: -webkit-linear-gradient(left,#04daf7,#450e69,#500a33);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
+
+
+#herop-1 h4{font-weight: 200; 
+	          color: #ffffff;
+			  
+
+}
+#hero-section h1{font-size: 2rem;
+	padding-top: 10rem;
+
+}	
+#hero-section h3{font-size: 2rem;
+
+}
+#hero-section h4{font-size: 1.7rem;
+	font-size: 2rem;
+
+}
+
+
+
+#middle-section{
+width: auto;
+height: auto;
+
+background-color: #EBCCD6;
+
+}
+
+#robot-1 h1{padding-top: 40%;
+	color: #ffffff;
+	font-size: 6rem;
+
+}
+
+#robot-1 p{color: white;
+	font-size: 2rem;
+	font-weight: 400; }
+
+
+
+
+#robot-1{
+} 
+
+#truck-section{
+	width: 100%;
+	height: 50rem;
+}	
+
+
+#truck-section img{
+
+	padding-top:12rem ;
+
+
+}
+
+
+#truck-section h1{ padding-top: 30%;
+	padding-bottom: 1rem; 
+	
+font-family: 'Geo', sans-serif;
+
+}
+
+#truck-section h2{ 
+	font-family: 'Signika Negative', sans-serif;
+	font-weight: 300;
+	color:rgb(95, 13, 80);
+	font-size: 2rem;
+	border:1px #CDCDCD  solid;
+	
+	
+	
+}
+
+#future-5{
+	background-color:#1A1A1A;
+	width: 100%;
+	height: 40rem;
+	
+
+}
+
+#future-5{
+	border: #ffffff 1px solid!important;
+}
+
+
+#future-5 h1{
+	padding-top: 10%;
+	color: white; }
+
+
+#future-5 h2 { padding-top: 5rem;
+	font-family: 'Signika Negative', sans-serif;
+	font-weight: 300;
+	color: rgb(255, 255, 255);
+	
+}
+
+
+#footer-section{
+	width: 100%;
+	height: auto;
+	background-color: #000000;
+}
+
+
+#footer-section img{
+	margin-left: 37rem;
+	width: 55%;
+	height: 100%;
+
+}
+
+#future{
+	background-image: url(img/giphy\ \(6\).webp);
+	background-position: right;
+	background-repeat: no-repeat;
+	background-size: 40%;
+}
+
+
+
+#footer-section h2{ 
+	color: white;
+	padding-top: 30%;
+	font-family: 'Julius Sans One', sans-serif;
+	font-family: 'Major Mono Display', monospace;
+	background: -webkit-linear-gradient(left,#ff005e,#ff01c9,#a700ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+ 
+
+}
+
+
+
+	#footer-section p{ 
+		color: white;  }
+
+
+		#footer-section i{ padding-top: 1rem;
+			padding-left: .9rem;
+			padding-bottom: 1rem;
+			background: -webkit-linear-gradient(left,#ff005e,#ff01c9,#a700ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+		}	
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+
+html{
+font-size: 45%;
+}
+body{
+	
+	overflow-x: hidden;
+}
+
+#hpart{
+	height: 100%;
+}
+
+#hpart-1{
+background-position: center;
+
+
+}
+
+#hpart-2{ padding-top: 2rem;
+
+}
+
+
+#hero-section {
+
+padding-top: 20rem;
+
+}
+
+#hero-section{
+width: 100vw;
+height: 100%;
+background-color: black;
+
+
+
+}
+
+#middle-section{
+     width: 100%;
+	 height: 100%;
+	 
+
+}
+
+#truck-section{
+	width: 100%;
+	height: 100%;
+	background-color: #ffffff;
+}
+
+
+#truck-section img{
+	
+	width: 100%;
+	height: 100%; }
+
+	
+#truck-section img{
+
+	padding-top:10rem ;
+
+
+}
+
+
+#truck-section h1{ padding-top: 10%; }
+
+
+
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (max-width: 768px) {
+html{
+font-size: 45%;
+}
+
+body{
+}
+
+#hero-section {
+
+padding-top: 20rem;
+
+}
+
+#hpart-1{
+background-position: center;
+}
+
+#hpart-2{ padding-top: 2rem;
+
+}
+
+#hero-section{
+width: 100vw;
+height: 100%;
+background: #000000;  
+
+}
+
+
+
+#middle-section{
+	width: 100%;
+	height: 100%;
+	
+background-color: black;
+
+}
+
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+html{
+font-size: 45%;
+}
+
+
+
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {...}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+.navbar-brand{
+width: 100%;
+text-align: left;
+}
+
+}
